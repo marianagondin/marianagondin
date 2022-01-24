@@ -25,7 +25,7 @@ Brasileira com mais divertidamentes que o normal. Vinte e um anos. Três filhos 
 </div>
 <br><br><br>
 <div align="center">
-<a href="https://github.com/marianagondin">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianagondin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/marianagondin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianagondin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianagondin&layout=compact&langs_count=7&theme=onedark"/>
 </div>
