@@ -1,4 +1,4 @@
-<img src=".imagestouse/Oi,%20pode%20me%20chamar%20de%20Mari!.png" min-width="300px" max-width="550px" width="500px" align="center">
+<img src=".imagestouse/Oi,%20pode%20me%20chamar%20de%20Mari!.png" width="100%" align="center">
 <p align= "center">© Desenho de mamewmy disponível no <a href="https://www.freepik.com/mamewmy" target= "_blank">freepik</a>.</p>
 <br>
 <p align="justify"><strong>
