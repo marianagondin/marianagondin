@@ -1,20 +1,30 @@
-<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">
-
-<p align="left"> 
-    <Strong>Olá! Eu sou a Mariana Gondin, mas pode me chamar de Mari :) </Strong>
+<img src=".imagestouse/Oi,%20pode%20me%20chamar%20de%20Mari!.png" min-width="300px" max-width="550px" width="500px" align="center">
+<p align= "center">© Desenho de mamewmy disponível no <a href="https://www.freepik.com/mamewmy" target= "_blank">freepik</a>.</p>
+<br>
+<p align="justify"><strong>
+Brasileira com mais divertidamentes que o normal. Vinte e um anos. Três filhos caninos. Um namorado, que é quase marido. Trilhões de formas para citar frases clichês dos filmes mais melosos e adolescentes da maioria dos serviços de streaming. Em plena mudança de carreira migrando da área agrícola para o desenvolvimento web graças a Trybe. O GitHub foi o lugar que encontrei para armazenar todos os exercícos e projetos realizados durante o curso, além de criar um portfólio pessoal com projetos que possam me agregar conhecimento. Bem-vindo(a)!
+</strong>
 </p>
-
-<p align="left">
-Brasileira com mais divertidamentes que o normal. 21 anos. 3 filhos caninos. 1 namorado que é quase marido. 9875432186453 formas de citar frases clichês dos filmes mais melosos e adolescentes da Netflix. Em plena mudança de carreira migrando do agro para o dev graças a Trybe. O GitHub foi o lugar que encontrei para armazenar todos os exercícos e projetos realizados durante o curso, além de criar um portfólio pessoal para ser encontrada e também me encontrar. Soou estranho? Imaginei... haha
+<br>
+<div style="background-color: #b87064; padding: 20px">
+<p align="justify">
+  💼 Ferramentas, linguagens, softwares de código aberto e frameworks trabalhadas e em desenvolvimento: <strong>VSCode, Trello, Notion, Slack, Zoom, Git, GitHub, ESLint, Bash, HTML, CSS, Bootstrap, JavaScript, Node e Jest.</strong>
 </p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Trello, Notion, Slack, Zoom, Git e GitHub.</strong>
+<p align="justify">
+🧚‍♀️ Soft Skills trabalhadas e em desenvolvimento: <strong>Gestão de tempo, Autoliderança, Comunicação assertiva, Diversidade e inclusão, Escuta ativa, Negociação, Dar e receber feedbacks, Inteligência emocional, Empatia e Resiliência.</strong>
 </p>
-
- <a href="https://instagram.com/mahgondin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marianagondin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:marianagondin2107@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+</div><br>
 <div align="center">
-  <a href="https://github.com/marianagondin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianagondin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://www.linkedin.com/in/marianagondin/" target="_blank" style="padding:5px"><img src =".imagestouse/LinkedIN.svg" width = "20px"></img></a>
+<a href="https://www.instagram.com/mahgondin/" target="_blank" style="padding:5px"><img src =".imagestouse/Instagram.svg" width = "20px"></img></a>
+<a href="https://www.facebook.com/mahgondin/" target="_blank" style="padding:5px"><img src =".imagestouse/Facebook.svg" width = "20px"></img></a>
+<a href="mailto:marianagondin2107@gmail.com" target="_blank" style="padding:5px"><img src =".imagestouse/Gmail.svg" width = "20px"></img></a>
+<a href="https://us04web.zoom.us/j/9092000578?pwd=TUNoLys5bm1iYzJpVUVDaXhLaXo1QT09" target="_blank" style="padding:5px"><img src =".imagestouse/Zoom.svg" width = "20px"></img></a>
+<a href="https://marianagondin.github.io/" target="_blank" style="padding:5px"><img src =".imagestouse/WWW.svg" width = "20px"></img></a>
+</div>
+
+<div align="left">
+<a href="https://github.com/marianagondin">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianagondin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianagondin&layout=compact&langs_count=7&theme=onedark"/>
 </div>
