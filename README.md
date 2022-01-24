@@ -16,12 +16,12 @@ Brasileira com mais divertidamentes que o normal. Vinte e um anos. Três filhos 
 </div><br>
 <p align="center"><strong>Onde me encontrar:</strong></p>
 <div align="center">
-<a href="https://www.linkedin.com/in/marianagondin/" target="_blank" style="padding:5px"><img src =".imagestouse/LinkedIN.svg" width = "20px"></img></a>
-<a href="https://www.instagram.com/mahgondin/" target="_blank" style="padding:5px"><img src =".imagestouse/Instagram.svg" width = "20px"></img></a>
-<a href="https://www.facebook.com/mahgondin/" target="_blank" style="padding:5px"><img src =".imagestouse/Facebook.svg" width = "20px"></img></a>
-<a href="mailto:marianagondin2107@gmail.com" target="_blank" style="padding:5px"><img src =".imagestouse/Gmail.svg" width = "20px"></img></a>
-<a href="https://us04web.zoom.us/j/9092000578?pwd=TUNoLys5bm1iYzJpVUVDaXhLaXo1QT09" target="_blank" style="padding:5px"><img src =".imagestouse/Zoom.svg" width = "20px"></img></a>
-<a href="https://marianagondin.github.io/" target="_blank" style="padding:5px"><img src =".imagestouse/WWW.svg" width = "20px"></img></a>
+<a href="https://www.linkedin.com/in/marianagondin/" target="_blank" style="padding:5px"><img src =".imagestouse/LinkedIN.svg" width = "40px"></img></a>
+<a href="https://www.instagram.com/mahgondin/" target="_blank" style="padding:5px"><img src =".imagestouse/Instagram.svg" width = "40px"></img></a>
+<a href="https://www.facebook.com/mahgondin/" target="_blank" style="padding:5px"><img src =".imagestouse/Facebook.svg" width = "40px"></img></a>
+<a href="mailto:marianagondin2107@gmail.com" target="_blank" style="padding:5px"><img src =".imagestouse/Gmail.svg" width = "40px"></img></a>
+<a href="https://us04web.zoom.us/j/9092000578?pwd=TUNoLys5bm1iYzJpVUVDaXhLaXo1QT09" target="_blank" style="padding:5px"><img src =".imagestouse/Zoom.svg" width = "40px"></img></a>
+<a href="https://marianagondin.github.io/" target="_blank" style="padding:5px"><img src =".imagestouse/WWW.svg" width = "40px"></img></a>
 </div>
 <br><br><br>
 <div align="center">
